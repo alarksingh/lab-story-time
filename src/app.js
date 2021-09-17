@@ -1,7 +1,7 @@
-//Progression 1:
-//We've got some basic info about Karen's home
-//Debug the type of data provided
-//Return the types concatenated in a single variable
+describe("Concatenate the types of data and return it - moreAboutHome", function() {
+  it("Defines moreAboutHome", function() {
+    expect(typeof moreAboutHome).toBe("function");
+  });
 
 //Progression 2:
 //Check if the data given is of the right type
